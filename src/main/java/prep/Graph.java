@@ -2,6 +2,10 @@ package prep;
 
 import prep.RouteBetweenNodes.State;
 
+/**
+ * 4.1 Route Between Nodes 
+ * 5/11/20
+ */
 public class Graph {
     public Node[] nodes; 
 

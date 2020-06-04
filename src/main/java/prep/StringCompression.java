@@ -2,6 +2,7 @@ package prep;
 
 /**
  * 1.6 String Compression
+ * 4/26/20
  */
 public class StringCompression {
     public static void main(String[] args) throws Exception {

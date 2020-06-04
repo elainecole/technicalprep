@@ -8,6 +8,10 @@ import javax.swing.tree.TreeNode;
  * 5/12/20
  */
 public class Successor {
+
+    public static void main( String[] args ) {
+        System.out.println("Initializing Technical Prep: 4.6 Successor");
+    }
     TreeNode inOrderSucc(TreeNode n) {
         if (n == null) return null; 
         if (n.getChildAt(1) != null) {
