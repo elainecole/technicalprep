@@ -1,7 +1,7 @@
 package prep;
 
 /**
- * 8.5 Recusrive Multiply
+ * 8.5 Recursive Multiply
  * 6/15/20
  */
 public class RecursiveMultiply {
