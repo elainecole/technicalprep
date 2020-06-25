@@ -6,7 +6,7 @@ package prep;
  */
 public class RecursiveMultiply {
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         System.out.println("Initializing Technical Prep");
         System.out.println("Recursive Multiply Add: " + recursiveMultiplyAdd(33, 4));
         System.out.println("Recursive Multiply Bit Shift: " + recursiveMultiplyBitShift(33, 4));
