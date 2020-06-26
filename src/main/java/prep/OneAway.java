@@ -5,7 +5,7 @@ package prep;
  * 4/26/20
  */
 public class OneAway {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         System.out.println("Initializing Technical Prep");
         System.out.println("isOneAway: " + isOneAway("test", "test"));
     }

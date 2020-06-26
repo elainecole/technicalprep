@@ -13,7 +13,7 @@ public class RobotInGrid {
     int nRows, nCols; 
     int[][] grid = new int[nRows][nCols];
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         System.out.println("Initializing Technical Prep: Robots in a Grid");
     }
     

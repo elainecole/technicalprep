@@ -54,7 +54,7 @@ public class SetOfStacks<T> {
         this.currStack = 0; 
     }
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         System.out.println("Initializing Technical Prep");
         System.out.println("SetOfStacks (capacity 4): ");
         SetOfStacks<Integer> plateStack = new SetOfStacks<Integer>(4); 

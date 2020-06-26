@@ -6,4 +6,5 @@ target/
 .settings/org.eclipse.m2e.core.prefs
 .project
 .classpath
-src/test/java/prep/technicalprep.code-workspace
+technicalprep.code-workspace
+pom.xml

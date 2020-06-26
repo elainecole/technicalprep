@@ -5,7 +5,7 @@ package prep;
  * 6/11/20
  */
 public class MagicIndex {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         System.out.println("Initializing Technical Prep");
         int[] arr = new int[10];
         for (int i = 0; i < 5; i++) {

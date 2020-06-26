@@ -6,7 +6,7 @@ package prep;
  */
 public class RemoveDuplicates {
 
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         System.out.println("Initializing Technical Prep");
         // System.out.println("RemoveDuplicates: " + removeDuplicates("));
     }

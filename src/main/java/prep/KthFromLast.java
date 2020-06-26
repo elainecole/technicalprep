@@ -8,7 +8,7 @@ public class KthFromLast {
     // Node class has .data and .next fields.
     // NULL is end of .next
     
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         System.out.println("Initializing Technical Prep");
         // System.out.println("KthFromLast: " + fourthFromLast(3));
     }

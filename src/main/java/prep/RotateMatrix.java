@@ -1,7 +1,7 @@
 package prep;
 
 public class RotateMatrix {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args) {
         System.out.println("Initializing Technical Prep");
         int n = 5; 
         int[][] m = new int[n][n];
