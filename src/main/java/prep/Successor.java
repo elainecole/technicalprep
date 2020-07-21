@@ -4,7 +4,6 @@ import javax.swing.tree.TreeNode;
 
 /**
  * 4.6 Successor
- * 
  * 5/12/20
  */
 public class Successor {

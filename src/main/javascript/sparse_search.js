@@ -1,6 +1,10 @@
-// 10.5 Sparse Search
-// 7/8/20
-
+/**
+ * 10.5 Sparse Search
+ * 7/8/20
+ * 
+ * @param {*} array 
+ * @param {*} s 
+ */
 function sparse_search(array, s) {
     let lower = 0, upper = array.length - 1; 
     while (array[lower] == '') {

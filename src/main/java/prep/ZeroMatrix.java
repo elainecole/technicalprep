@@ -1,5 +1,9 @@
 package prep;
 
+/**
+ * 1.8 Zero Matrix
+ * 6/22/20
+ */
 public class ZeroMatrix {
     
     public static void main(String[] args) {

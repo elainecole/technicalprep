@@ -1,11 +1,10 @@
 package prep;
 /**
- * 4.3 List of Depths: Given a binary tree, design an algorithm which creates 
+ * 4.3 List of Depths
+ * 5/12/20 
+ * Given a binary tree, design an algorithm which creates 
  * a linked list of all nodes at each depth (e.g., if you have a tree with 
  * depth D, you'll have D linked lists). 
- * 
- * 5/12/20 
- * 
  */
 public class ListOfDepths {
     public static void main(String[] args) {

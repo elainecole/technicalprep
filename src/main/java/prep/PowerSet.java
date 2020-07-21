@@ -5,7 +5,6 @@ import java.util.*;
 /**
  * 8.4 Power Set
  * 6/17/20
- * 
  */
 public class PowerSet {
     public static void main(String[] args) {

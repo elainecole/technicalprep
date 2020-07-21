@@ -26,7 +26,7 @@ public class HiddenWord {
     }
 
     public static void main(String[] args) {
-        System.out.println("Initializing Technical Prep: Paths with Sum");
+        System.out.println("Initializing Technical Prep: Hidden Word");
     }
     public String getHint(String guess) {
         char[] wordChars = word.toCharArray();

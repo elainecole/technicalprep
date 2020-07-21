@@ -3,7 +3,9 @@ package prep;
 // import java.util.ArrayList;
 
 /**
- * 4.12 Paths with Sum: 5/28/20 4.12 Paths with Sum: You are given a binary tree
+ * 4.12 Paths with Sum: 
+ * 5/28/20 
+ * given a binary tree
  * in which each node contains an integer value (which might be positive or
  * negative). Design an algorithm to count the number of paths that sum to a
  * given value. The path does not need to start or end at the root or a leaf,

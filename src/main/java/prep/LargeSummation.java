@@ -4,6 +4,8 @@ import java.math.BigInteger;
 
 /**
  * Large Summation 
+ * 5/5/20
+ * 
  * Cisco technical exercise 
  * 
  * Sums the multiples of a given factor less than or 

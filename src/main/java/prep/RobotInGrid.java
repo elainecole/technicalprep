@@ -4,10 +4,9 @@ package prep;
  * 8.2 Robot in a Grid
  * 6/8/20
  * int rows, cols = some number; 
- // false if “off limits” 
-// determine if there is a path from top left to bottom right 
-// to get to bottom right (last), need to get to first to last, second to last, third to last, … second 
-
+ * false if “off limits” 
+ * determine if there is a path from top left to bottom right 
+ * to get to bottom right (last), need to get to first to last, second to last, third to last, … second 
  */
 public class RobotInGrid {
     int nRows, nCols; 

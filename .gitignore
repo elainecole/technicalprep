@@ -8,3 +8,9 @@ target/
 .classpath
 technicalprep.code-workspace
 pom.xml
+
+# technical exercises not to share:
+technical_6-29-20.py
+technical_7-13-20.py
+technical_7-13-20.js
+Technical_7_17_20.java
