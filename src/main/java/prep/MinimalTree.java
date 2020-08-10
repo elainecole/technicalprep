@@ -24,3 +24,26 @@ public class MinimalTree {
         return n;
     }
 }
+
+/*
+TreeNode {
+ 
+}
+ 
+TreeNode minimalSubTree(int start, int end, int[] arr) {
+// stop when start == end
+if (start > end) {
+	return null; 
+}
+int mid = (arr.length - 1)/ 2; 
+TreeNode child = new TreeNode(arr[mid]); 
+child.left = minimalSubTree(0, mid - 1, array.subArray(0, mid - 1)); 
+child.right = minimalSubTree(mid - 1, arr.length - 1, array.subArray(mid + 1, arr.length - 1)); 
+return child; 
+}
+ 
+TreeNode minimalTree(int[] arr) {
+	return minimalSubTree(0, arr.length - 1, arr); 
+}
+
+*/

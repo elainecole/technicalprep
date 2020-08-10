@@ -2,7 +2,9 @@ package prep;
 
 public class Node {
     Node next = null; 
-    int data; 
+    int data;
+	public Node left;
+	public Node right; 
 
     public Node(int data) {
         this.data = data; 
