@@ -4,7 +4,9 @@ import javax.swing.tree.TreeNode;
 
 /**
  * 4.6 Successor
- * 5/12/20
+ * 5/12/20, 8/10/20 
+ * write an algorithm to find the "next" node (i.e., in-order successor) of a given node in a binary search tree. 
+ * You may assume that each node has a link to its parent. 
  */
 public class Successor {
 
